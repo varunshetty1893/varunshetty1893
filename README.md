@@ -59,7 +59,7 @@
 | 🦠 | [COVID-19 CT Scan Classifier](https://github.com/varunshetty1893/covid19-pneumonia-ct-classification) | ML model classifying COVID-19, Pneumonia & Normal lung CT scans with high accuracy | Python · SVM · Random Forest · Scikit-learn |
 | 🌾 | [Global Farmer](https://github.com/varunshetty1893/global-farmer) | E-commerce platform for agricultural products with secure auth & cart system | PHP · MySQL · JavaScript · Bootstrap |
 | 🥗 | [Smart Fitness Diet Planner](https://github.com/varunshetty1893/Smart-Fitness-Diet-Planner-Python-Project) | Rule-based diet & exercise recommendation system based on BMI & lifestyle | Python · Flask · SQLite |
-| 📊 | [Student Result Management System](https://github.com/varunshetty1893) | Academic result management system built during internship at Testsavvy | PHP · MySQL · Bootstrap |
+| 📊 | [Student Result Management System](https://github.com/varunshetty1893/Student-result-management-project) | Academic result management system built during internship at Testsavvy | PHP · MySQL · Bootstrap |
 
 ---
 
