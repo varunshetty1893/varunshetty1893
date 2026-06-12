@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Shetty B</h1>
-<h3 align="center">MCA Student | ML Developer | Full-Stack Web Developer | India 🇮🇳</h3>
+<h3 align="center">MCA Graduate | ML Developer | Full-Stack Web Developer | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Applications;COVID-19+CT+Scan+Classifier+%7C+ML+Developer;Python+%7C+Flask+%7C+PHP+%7C+JavaScript;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Web+Applications;COVID-19+CT+Scan+Classifier+%7C+ML+Developer;Python+%7C+Flask+%7C+PHP+%7C+JavaScript;Open+to+Software+Developer+Roles" alt="Typing SVG" />
 </p>
 
 <img align="right" width="340px" alt="Coding" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
@@ -13,10 +13,11 @@
 
 - 🎓 Pursuing **MCA at Mangalore University** (2024–2026)
 - 🔬 Built a **COVID-19 & Pneumonia CT Scan Classifier** using SVM, Random Forest & Logistic Regression
-- 🌾 Developing **Global Farmer** — an e-commerce platform for agricultural products
+- 🌾 Built **Global Farmer** — an e-commerce platform for agricultural products
+- 🎯 Built **AI Interviewer** — an AI-powered mock interview simulator using Groq LLaMA 3.3 70B
 - 💼 Interned at **Testsavvy Company** — built a Student Result Management System
 - 🌱 Currently learning **Advanced ML, Flask APIs & Full-Stack Development**
-- 🎯 Looking for **internship & collaboration** opportunities in Web Dev / AI-ML
+- 💼 **Actively looking for Software Developer / Web Developer / ML roles**
 - 💬 Ask me about **Python, Flask, PHP, HTML, CSS, MySQL, Machine Learning**
 - 📫 Reach me at: **shettybvarun@gmail.com**
 
@@ -56,14 +57,13 @@
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 🦠 | [COVID-19 CT Scan Classifier](https://github.com/varunshetty1893/covid19-pneumonia-ct-classification) | ML model classifying COVID-19, Pneumonia & Normal lung CT scans with high accuracy | Python · SVM · Random Forest · Scikit-learn |
-| 🌾 | [Global Farmer](https://github.com/varunshetty1893/global-farmer) | E-commerce platform for agricultural products with secure auth & cart system | PHP · MySQL · JavaScript · Bootstrap |
-| 🥗 | [Smart Fitness Diet Planner](https://github.com/varunshetty1893/Smart-Fitness-Diet-Planner-Python-Project) | Rule-based diet & exercise recommendation system based on BMI & lifestyle | Python · Flask · SQLite |
-| 📊 | [Student Result Management System](https://github.com/varunshetty1893/Student-result-management-project) | Academic result management system built during internship at Testsavvy | PHP · MySQL · Bootstrap |
+| 🦠 | [COVID-19 CT Scan Classifier](https://github.com/varunshetty1893/covid19-pneumonia-ct-classification) | ML model classifying COVID-19, Pneumonia & Normal lung CT scans with high accuracy  | Python · SVM · Random Forest · Scikit-learn |
+| 🌾 | [Global Farmer](https://github.com/varunshetty1893/global-farmer) | E-commerce platform for agricultural products with secure auth & cart system  | PHP · MySQL · JavaScript · Bootstrap |
+| 🥗 | [Smart Fitness Diet Planner](https://github.com/varunshetty1893/Smart-Fitness-Diet-Planner-Python-Project) | Rule-based diet & exercise recommendation system based on BMI & lifestyle  | Python · Flask · SQLite |
+| 🎯 | [AI Interviewer](https://github.com/varunshetty1893/AI-Interviewr) | AI-powered mock interview simulator — paste a JD, answer 10 dynamic questions & get a full scored report with feedback  | Python · Flask · Groq API (LLaMA 3.3 70B) · SQLite · JavaScript |
+| 📊 | [Student Result Management System](https://github.com/varunshetty1893/Student-result-management-project) | Academic result management system built during internship at Testsavvy  | PHP · MySQL · Bootstrap |
 
 ---
-
-
 
 ### 🏆 Certifications & Achievements
 
@@ -92,4 +92,5 @@
 
 ---
 
+<p align="center">💼 <b>Open to Software Developer · Web Developer · ML Engineer roles — feel free to reach out!</b></p>
 <p align="center">⭐ <i>"Always learning, always building."</i> — Varun Shetty B</p>
